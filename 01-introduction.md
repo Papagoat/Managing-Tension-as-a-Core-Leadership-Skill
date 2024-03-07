@@ -1,6 +1,6 @@
 # Understanding Tension in Leadership
 
-**Tension** emerges naturally in environments characterized by VUCA, as leaders guide their teams through unknown terrains. This tension, if not managed properly, can escalate into a destructive force, undermining trust and collaboration. However, when approached constructively, tension can become a catalyst for learning, innovation, and growth.
+**Tension** emerges naturally in environments characterized by VUCA (volatility, uncertainty, complexity, and ambiguity), as leaders guide their teams through unknown terrains. This tension, if not managed properly, can escalate into a destructive force, undermining trust and collaboration. However, when approached constructively, tension can become a catalyst for learning, innovation, and growth.
 
 ## The Life-Giving Range of Tension
 
