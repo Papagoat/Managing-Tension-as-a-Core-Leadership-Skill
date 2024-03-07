@@ -23,10 +23,10 @@ making and poor quality outcomes and results, exacerbating the complexity and es
 
 
 # Managing Tension - An Introduction
-When we are caught in this vicious cycle, we often react, og ofr quick fixes, look for who or what we can blame, and conform to the status quo to stay within our comfort zone. This leads to a team culture of chronic anxiety.
+When we are caught in this vicious cycle, we often react, offer quick fixes, look for who or what we can blame, and conform to the status quo to stay within our comfort zone. This leads to a team culture of chronic anxiety.
 
 Is there another way to navigate the tension such that it leads to more effective outcomes and a more generative energy and culture?
-What fi we see tension as an opportunity for learning and growth - at the personal, team and organization level? What new conversations can we then hold that will harness the learning potential of tension, generate a higher quality of collective intelligence, deepen the community of trust and commitment, and strengthen our confidence to go into the unknown together?
+What if we see tension as an opportunity for learning and growth - at the personal, team and organization level? What new conversations can we then hold that will harness the learning potential of tension, generate a higher quality of collective intelligence, deepen the community of trust and commitment, and strengthen our confidence to go into the unknown together?
 
 # Tension
 - Tension is a difference in perspectives, focus, gifting or awareness of what is happening and how to interpret it. It is needed for healthy and sustainable relationships.
