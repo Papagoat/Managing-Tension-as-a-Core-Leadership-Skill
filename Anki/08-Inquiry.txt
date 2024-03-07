@@ -1,0 +1,11 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What impact does genuine inquiry have?;Enhances decision-making and team collaboration
+Cloze;Genuine questions can {{c1::create focus}} and clarify objectives in conversations.
+Basic;How does inquiry influence emotions in team settings?;Fosters a sense of ownership and motivation
+Basic (and reversed card);What does encouraging ownership through questions lead to?;Enhanced engagement and commitment
+Cloze;Asking the right questions facilitates {{c1::assistance and collaboration}}, making support more accessible.
+Basic;How does inquiry alter perceptions within teams?;By challenging existing mental models and assumptions
+Basic (and reversed card);What role does inquiry play in leadership?;Navigates complexity and fosters innovation
+Cloze;Valuing inquiry in leadership helps cultivate a {{c1::culture of curiosity}}, encouraging continuous learning.

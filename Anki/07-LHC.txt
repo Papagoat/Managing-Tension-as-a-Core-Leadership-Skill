@@ -1,0 +1,11 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What does the Left-Hand Column (LHC) technique reveal?;Internal dialogues affecting perceptions and behaviors
+Cloze;The LHC tool elevates awareness of internal narratives, allowing us to {{c1::recognize patterns}} in our thinking.
+Basic;Why is identifying defensive reactions important?;It helps understand behaviors that sabotage communication
+Basic (and reversed card);What does adopting a learner's stance enable?;More constructive and creative outcomes
+Cloze;Making the LHC exercise a regular practice enhances {{c1::self-awareness and adaptive learning}}.
+Basic;How can seeking feedback help after doing the LHC exercise?;It offers new perspectives on internal narratives
+Cloze;Practicing {{c1::mindfulness}} improves the ability to observe thoughts and feelings without immediate reaction.
+Basic;Why is engaging in dialogue recommended after the LHC exercise?;It promotes mutual understanding and collaboration

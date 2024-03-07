@@ -1,0 +1,11 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What impact does mindset have on leadership and team dynamics?;Influences perception and interaction
+Cloze;A {{c1::Judger}} mindset is characterized by reactivity and focusing on limitations.
+Basic;What advantages does a Learner mindset offer for individuals?;Increases growth, resilience, satisfaction
+Basic (and reversed card);How does a Learner mindset affect team dynamics?;Enhances trust, innovation, problem-solving
+Cloze;Cultivating a {{c1::Learner mindset}} boosts organizational adaptability and success.
+Basic;What is a key strategy for developing a Learner mindset?;Embrace curiosity and seek diverse perspectives
+Cloze;Reframing {{c1::challenges}} as opportunities is essential for growth and learning.
+Basic;Why is practicing flexibility important in cultivating a Learner mindset?;Adapts strategies and behaviors based on new insights

@@ -1,0 +1,10 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What do boundaries signify in leadership and teamwork?;Self-care, respect, and prevention of conflicts
+Cloze;Boundaries are foundational to {{c1::self-care and respect}}, protecting well-being.
+Basic;Why is identifying personal needs important for setting boundaries?;Helps create strong, resilient relationships
+Basic (and reversed card);What often contributes to the strength of strong relationships?;Well-defined boundaries
+Basic;How can evaluating boundaries help in tense situations?;By revealing and addressing underlying issues
+Cloze;Assertive communication is crucial for {{c1::clearly and respectfully communicating}} boundaries.
+Basic;What are key strategies for setting and maintaining healthy boundaries?;Self-awareness, assertive communication, consistency, flexibility

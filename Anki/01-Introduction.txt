@@ -1,0 +1,11 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What naturally occurs in leadership during challenging environments?;Tension
+Basic;What is the goal of maintaining tension within a "life-giving range"?;To motivate without overwhelming
+Cloze;Seeing tension as an opportunity can shift perspective and {{c1::use tension for growth}}.
+Basic;Why is developing emotional intelligence important for leaders?;To manage emotions for a positive atmosphere
+Basic (and reversed card);What does adaptive leadership involve?;Being open to new ideas and ready to make decisions
+Cloze;Creating {{c1::safe spaces for dialogue}} ensures everyone can share thoughts respectfully.
+Basic;How can leaders customize their approach to team management?;By adjusting methods to suit individual team member needs
+Basic (and reversed card);How can effective tension management benefit a team?;By turning challenges into drivers of innovation and development

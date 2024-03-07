@@ -1,0 +1,10 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What should tension be used for in leadership?;A catalyst for growth
+Cloze;Encouraging {{c1::inquiry}} fosters a culture of continuous learning.
+Basic;What is the benefit of choosing reflective responses over impulsive reactions?;Promotes thoughtful and effective responses to challenges
+Basic (and reversed card);How does naming influence a team's perception?;By shaping their reality perception through language
+Cloze;Aligning decisions with core {{c1::values}} motivates and guides teams towards shared goals.
+Basic;What does a relational system in leadership encompass?;Personal, interpersonal, team, organizational, and whole system levels
+Basic (and reversed card);How do core competencies enhance leadership effectiveness?;By helping navigate complexities and lead successfully

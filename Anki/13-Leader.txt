@@ -1,0 +1,13 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic;What should leaders recognize and understand within their team to manage tension?;Tension points and their root causes
+Cloze;Leaders should {{c1::acknowledge areas of tension}} within the team, understanding the root causes and how they manifest.
+Basic;How does fostering a safe environment help manage team tension?;By encouraging openness to express uncertainty and ask questions
+Cloze;Fostering a {{c1::safe environment}} where it's safe to express uncertainty and ask questions leads to deeper understanding and collaboration.
+Basic;What does practicing wise vulnerability involve for leaders?;Sharing challenges and uncertainties to encourage openness
+Cloze;Practicing {{c1::wise vulnerability}} involves sharing your own challenges and uncertainties as a leader, encouraging others to open up.
+Basic;How can reframing issues impact a team's problem-solving ability?;It can empower rather than discourage, affecting solutions
+Cloze;Teaching and practicing the skill of {{c1::reframing issues}} in empowering ways can significantly impact problem-solving abilities.
+Basic;What framework can help manage tensions arising from differing values?;Polarity Management
+Cloze;Introducing frameworks like {{c1::Polarity Management}} helps navigate tensions from differing values as dilemmas rather than single-solution problems.

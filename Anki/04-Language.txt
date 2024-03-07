@@ -1,0 +1,9 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What role does language play in leadership?;Shapes reality and perceptions
+Cloze;{{c1::Naming}} tensions makes them visible and sets the stage for collective engagement.
+Basic;How does framing influence a team's response to challenges?;Dictates whether viewed as threats or opportunities
+Basic (and reversed card);How can leaders use language to redefine relationships with challenges?;By viewing tension as a source of energy and growth
+Cloze;Empowering through language involves {{c1::creative reinterpretation}} to highlight possibilities.
+Basic;What is the goal of effective communication in leadership?;To construct shared understandings and realities

@@ -1,0 +1,14 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What indicates resilience and an open attitude towards growth?;Presence and engagement
+Cloze;Understanding and accepting one's limitations is crucial for {{c1::emotional health}}.
+Basic;Why is utilizing personal strengths important?;It leads to self-efficacy and fulfillment
+Basic (and reversed card);What mindset frames tension as a growth opportunity?;Growth mindset
+Cloze;Assertiveness is essential for {{c1::self-care and respect}}.
+Basic;What does authentic communication enhance in relationships?;Clarity and trust
+Basic (and reversed card);Why is self-value critical?;For sustaining energy and motivation
+Basic;What does autonomy strengthen in an individual?;Identity and purpose
+Cloze;A supportive environment allows for safe {{c1::emotional safety and expression}}.
+Basic;What promotes balanced relationships?;Equality and responsibility
+Cloze;Empathy without over-identification protects {{c1::emotional well-being}}.

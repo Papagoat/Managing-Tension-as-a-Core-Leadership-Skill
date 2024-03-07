@@ -1,0 +1,11 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What thrives on raw, unscripted human connection rather than calculated strategies?;Romance
+Cloze;Romance is marked by {{c1::lack of control}}, openness, and vulnerability, contrasting with seduction's predictability.
+Basic;What is the cornerstone of romance, setting it apart from seduction?;Vulnerability
+Basic (and reversed card);Why does applying techniques to human relationships overlook their essence?;Because relationships are journeys to be experienced, not mechanisms to be operated
+Cloze;The belief in control over relationships leads to missing their {{c1::true value}}.
+Basic;What lies in the unpredictability and vulnerability of human connections?;The essence of being human
+Basic (and reversed card);What aspect of romance challenges our perceptions and expectations?;Its ability to surprise and make us feel profoundly
+Cloze;Embracing {{c1::not knowing}} in relationships showcases the depth of our capacity for love and growth.

@@ -1,0 +1,12 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What indicates vitality and potential for innovation in an organization?;Tension
+Cloze;Managing {{c1::tension}} effectively drives teams towards innovation and growth.
+Basic;Why is asking questions important for leaders?;It shows commitment and values collective intelligence
+Basic (and reversed card);What should leaders do instead of reacting impulsively to challenges?;Choose reflective responses
+Cloze;Using language to {{c1::shape reality}} opens up possibilities for action and collaboration.
+Basic;How should leaders start making decisions and actions?;With core values
+Basic (and reversed card);What is the difference between dilemmas and problems?;Dilemmas require balancing values, problems have solutions
+Cloze;Emotions are indicators of underlying {{c1::values}} and guide leadership decisions.
+Basic;What are the core competencies essential for leadership in uncertain times?;Managing tension, engaging in inquiry, making reflective choices, using language powerfully, aligning with core values

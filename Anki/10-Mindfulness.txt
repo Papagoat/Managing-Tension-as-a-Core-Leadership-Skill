@@ -1,0 +1,11 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What is the cornerstone of emotional intelligence?;Self-awareness
+Cloze;Pausing to {{c1::breathe}} deeply helps regulate emotions and offers perspective.
+Basic;What does curiosity in the A-B-C-C process involve?;Seeking understanding beyond assumptions
+Basic (and reversed card);How does consciously choosing responses benefit individuals?;Leads to actions aligned with values
+Cloze;Constructive tension is a catalyst for {{c1::growth and transformation}}, both personally and societally.
+Basic;What is the purpose of the A-B-C-C process?;To manage reactions to stress or conflict effectively
+Cloze;Being {{c1::Aware}} involves recognizing when we're in a defensive mode and understanding triggers.
+Basic;Why is engaging with curiosity important in managing challenges?;It opens up new perspectives and information

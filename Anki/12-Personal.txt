@@ -1,0 +1,15 @@
+#separator:semicolons
+#html:true
+#notetype column:1
+Basic (and reversed card);What is the first step in managing personal tension?;Recognizing its presence
+Cloze;Managing personal tension involves {{c1::recognizing its presence}} and understanding its effects on thoughts, emotions, and behaviors.
+Basic;What should you reflect on to manage personal tension?;Responses to tension and their consequences
+Cloze;Cultivating {{c1::self-awareness}} is crucial in recognizing your responses to tension and making conscious choices.
+Basic;How can shifting to a learner mindset help manage tension?;By asking open, explorative questions
+Cloze;Identifying knowledge gaps and asking questions can transform your perspective, moving from judgmental to a {{c1::learner mindset}}.
+Basic;What does embracing wise vulnerability involve?;Opening up safely to allow for collective learning
+Cloze;Embracing {{c1::wise vulnerability}} involves finding ways to open up safely, allowing space for collective learning.
+Basic;What skill is involved in shifting your view of tension?;Practicing naming and reframing
+Cloze;Practicing {{c1::naming and reframing}} helps to shift your view of the tension in a way that empowers.
+Basic;What can emotional responses to tension reveal?;Values that are important to you
+Cloze;{{c1::Acknowledging feelings}} as responses to situations allows you to use these emotions as clues to the values that are important to you.
