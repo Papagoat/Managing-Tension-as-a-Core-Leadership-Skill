@@ -1,7 +1,9 @@
 # Managing Tension as a Core Leadership Skill - Introduction
 It is interesting to note that there is no positive word in the English language for conflict or tension. in Asia, tension and conflict are often regarded as states to be avoided - in issues, in communication, in relationships.
+
 This view of tension is limiting and has severe consequences on the quality of learning and growth in teams, for the following reasons:
 Leaders are now leading in times of volatility, uncertainty, complexity and ambiguity(VUCA). Often they are leading their people and organizations into the unknown. In such conditions, tension naturally increases at the personal, team and organizational level.
+
 With rising education and aspiration, most teams in organizations today are made up of people who are more vocal and who are not afraid to express their different and diverse views. Indeed, we want to attract people with such diverse talents and abilities into our teams.
 
 Such diversity wil give rise to a higher level of tension in teams as members express their different perspectives and approaches to issues.
