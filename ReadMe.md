@@ -45,8 +45,8 @@ Five core competencies are involved in building our capacity to manage tension e
 
 # Core Competencies for the Unknown
 * Tension - A difference in relational opinion, focus, gifting or awareness of what is happening and how to interpret it. It is healthy, normal and needed.
-* Inquiry -To have a voice, perspective and focus that matters. Because Iam limited and can't (and will never) know everything, I need to ask questions to get clarity. Questions are an expression of my commitment to the team and organization.
-* Defend -The power to choose how I respond to tension in me. I have the authority to make my own choices and own them. tI is a healthy capacity I need to nurture and learn to work with. We have two basic options:
+* Inquiry - To have a voice, perspective and focus that matters. Because Iam limited and can't (and will never) know everything, I need to ask questions to get clarity. Questions are an expression of my commitment to the team and organization.
+* Defend - The power to choose how I respond to tension in me. I have the authority to make my own choices and own them. tI is a healthy capacity I need to nurture and learn to work with. We have two basic options:
     * React - I don't think about it, but just have an automated reaction with little thought (react on impulse).
     * Reflective choice - After stepping back and reflecting, l act / respond in an appropriate way.
 
